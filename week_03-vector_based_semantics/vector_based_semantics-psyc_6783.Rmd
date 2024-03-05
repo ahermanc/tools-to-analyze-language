@@ -6,7 +6,7 @@ output:
     keep_md: yes
 ---
 
-While dictionary-based approaches allow researchers to extract meaning from text
+While dictionary-based approaches allow researchers to extract meaning from texts
 by identifying *a priori* certain groups of terms related to certain topics, the
 structure and reliable patterns of use within language can themselves be used to
 extract meaning. As John Firth put it, "You shall know a word by the company it
